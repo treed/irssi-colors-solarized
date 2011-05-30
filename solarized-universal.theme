@@ -301,7 +301,7 @@ abstracts = {
   # background for the statusbar of active window. You can also give
   # the foreground color.
   # %2 = green
-  sb_window_bg = "%k%2";
+  sb_window_bg = "%c%0";
 
   # background for prompt / input line
   sb_prompt_bg = "%n";
